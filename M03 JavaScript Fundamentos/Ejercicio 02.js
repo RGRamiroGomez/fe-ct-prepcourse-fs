@@ -4,7 +4,7 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
-   var strin= "Hola"
+   var strin= "Henry"
    return strin;
 }
 
